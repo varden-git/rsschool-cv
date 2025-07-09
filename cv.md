@@ -2,8 +2,11 @@
 
 # Contacts
 Location: Canada
+
 Phone: +604 777-7777
+
 Email: varden.git@gmail.com
+
 GitHub: varden-git
 
 # About Me
